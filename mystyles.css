@@ -1,4 +1,9 @@
 body {
-    background-color: #3a4a66;
+    background-color: #f2f2f2;
+	font-size: 1em;
+}
+head {
+	text-align: center;
+	font-size: 2em;
 }
 
