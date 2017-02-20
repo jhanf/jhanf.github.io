@@ -15,7 +15,7 @@ head {
 	    z-index: 1; /* Stay on top */
 	    top: 0;
 	    left: 0;
-		margin-right:0;
+		
 	    background-color: #605d5d; /* Black*/
 	    overflow-x: hidden; /* Disable horizontal scroll */
 	    padding-top: 50px; /* Place content 60px from the top */
@@ -39,7 +39,12 @@ head {
 
 	top: 10;
 	background-color: #efb945;
-	margin-left:0;
-	
+	margin-left:0;	
+}
+
+.topbar p {
+	text-align: center;
+	font-size: 1.5em;
+	padding-top: 20px;
 }
 
