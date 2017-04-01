@@ -1,0 +1,73 @@
+
+#indexjumbo {
+  background: url('../img/indexjumbo.jpg') no-repeat center center;
+  width: 100%;
+  top:0;
+  left:0;
+  z-index: -1;
+  background-size:cover;
+  
+}
+
+#indexjumbo .container h1 {
+	color:white;
+	text-shadow: -5px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+	
+}
+
+#indexjumbo .container p {
+	color:white;
+	text-shadow: -2px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+	
+}
+
+#mission-divider {
+	height:70px;
+	text-align:center;
+	background-color:#3f6dba;
+	color:white;
+	margin-top:-35px;
+}
+
+#mission-divider h1 {
+	padding-top:10px;
+}
+
+#all-men {
+	padding-right:30%;
+}
+
+#stats {
+	margin-bottom:20px;
+}
+
+#stats{
+	margin-right:15%;
+	margin-left:15%;
+}
+
+#redirect-section {
+	margin-right:5%;
+	margin-left:5%;
+}
+
+
+
+div.background {
+    background: url('../img/indexjumbo.jpg') no-repeat center center;
+    border: 2px solid black;
+}
+
+div.transbox {
+    margin: 30px;
+    background-color: #ffffff;
+    border: 1px solid black;
+    opacity: 0.6;
+    filter: alpha(opacity=60); /* For IE8 and earlier */
+}
+
+div.transbox p {
+    margin: 5%;
+    font-weight: bold;
+    color: #000000;
+}
